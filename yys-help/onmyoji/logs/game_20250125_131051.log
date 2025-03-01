@@ -1,0 +1,5 @@
+2025-01-25 13:10:51,446 - INFO - 日志系统初始化完成
+2025-01-25 13:10:51,448 - INFO - 日志系统初始化完成
+2025-01-25 13:10:51,448 - INFO - 程序启动
+2025-01-25 13:10:51,448 - ERROR - 检查游戏窗口时发生错误: module 'func.hwnd' has no attribute 'check_window'
+2025-01-25 13:10:56,449 - ERROR - 检查游戏窗口时发生错误: module 'func.hwnd' has no attribute 'check_window'
